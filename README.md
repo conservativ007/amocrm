@@ -1,8 +1,8 @@
 ## Тестовое задание веб-разработчика (Node.JS)
 ### Данные для входа в amocrm
-Логин: alisa3d2007@gmail.com
-Пароль: heTKJC3B
-Ссылка для входа: https://alisa3d2007.amocrm.ru/
+Логин: alisa3d2007@gmail.com  
+Пароль: heTKJC3B  
+Ссылка для входа: https://alisa3d2007.amocrm.ru/  
 
 ### NGROK
 https://2526-178-121-38-21.ngrok-free.app
